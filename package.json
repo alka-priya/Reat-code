@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "My first react application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alka-priya/Reat-code.git"
+  },
+  "keywords": [],
+  "author": "Alka priya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alka-priya/Reat-code/issues"
+  },
+  "homepage": "https://github.com/alka-priya/Reat-code#readme",
+  "dependencies": {
+    "parcel": "^2.16.1"
+  }
+}

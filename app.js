@@ -4,12 +4,3 @@ const heading = React.createElement('div', {id: 'parent', className: 'color'}, [
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(heading)
 root.render(Headers);
-
-
-/**
- * Ex
- * <div>
- *  <div class="child1">I am child 1</div>
- *  <div class="child1">I am child 1</div>
- * </div>
- */
